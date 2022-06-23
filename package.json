@@ -1,0 +1,22 @@
+{
+  "name": "9koh7w--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "4.7.0",
+    "antd": "4.21.3",
+    "axios": "^0.27.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-yandex-maps": "^4.6.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
